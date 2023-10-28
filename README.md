@@ -1,2 +1,1 @@
-# t-school
-t-school
+t-school(1st):https://arifmia099.github.io/t-school/
